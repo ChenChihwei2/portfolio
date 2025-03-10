@@ -1,5 +1,6 @@
-# Jonathan Chen
-![headshot photo](assets/img/headshot.png)
+---
+layout: default
+---
 
 ## About
 
