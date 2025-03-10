@@ -1,4 +1,4 @@
----
+
 ## About
 
 A dedicated and analytical Finance and Data Science student at the University of Illinois Urbana-Champaign, with a strong foundation in statistical modeling, data structures, and linear algebra. Passionate about leveraging data-driven insights to solve complex problems and optimize decision-making processes.
@@ -7,8 +7,8 @@ A dedicated and analytical Finance and Data Science student at the University of
 
 **University of Illinois Urbana-Champaign**  
 _Bachelor of Science in Finance and Data Science (Minor in Computer Science)_  
-_GPA: 3.81 | Expected Graduation: May 2026_  
-**Relevant Coursework:** Data Structures, Calculus III, Linear Algebra, Discrete Structures, Derivatives
+
+**Relevant Coursework:** Data Structures, Calculus III, Linear Algebra, Discrete Structures, Derivatives and Futures, Applied Machine Learning
 
 ## Experience
 
@@ -52,11 +52,10 @@ _GPA: 3.81 | Expected Graduation: May 2026_
 
 ## Contact
 
-**Email:** cwchen7@illinois.edu  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/chih-wei-chen-2621841a7)  
-**Phone:** (217) 328-6155
 
----
+
+
 
 
 
